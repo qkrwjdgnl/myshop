@@ -17,7 +17,7 @@ export default function Home() {
 
       {/* ✅ 프로모션 문구 */}
       <p className="text-center text-gray-700 mb-8">
-        Up to <strong>70% off</strong> on all gadgets!
+       안녕하세요 Up to <strong>70% off</strong> on all gadgets!
       </p>
 
       {/* ✅ CTA 버튼 */}
